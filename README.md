@@ -11,6 +11,7 @@ Designed to aid novice players understand the criteria and relative weight of ea
   - Royal Flush
   - Four of a Kind with Ace Kicker
   - Four of a Kind (Aces) with King Kicker
- 
+
 ## Status
-Completed. Ongoing minor refinements.
+- Development: started 2022 (age 14) - now completed
+- Maintenance: started 2023 - ongoing minor refinements
