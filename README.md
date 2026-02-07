@@ -18,3 +18,7 @@ Designed to aid novice players understand the criteria and relative weight of ea
 - Added the following humourous messages to the pre-flop depending on the cards entered:
   - High Card: 7 with 2 Kicker - '7-Deuce :(', an informal term for the worst pre-flop
   - Pair: Aces - 'Pocket Rockets!', an informal term for the best pre-flop
+ 
+## Version Control Note
+This repository includes early commits I made while I was learning how to integrate GitHub with my PyCharm application.
+My commit structure and practices have since improved as I gain more confidence & experience using GitHub.
